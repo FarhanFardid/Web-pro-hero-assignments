@@ -5,7 +5,7 @@
 }
 
 .header{
-    background-image: url(/assets/images/banner/banner3.png);
+    background-image: url('/assets/images/banner/banner3.png');
     width:99.5%;
     height: 812px;
     position:relative;
@@ -135,7 +135,7 @@ h3{
 }
 
 .overlay{
-    background-image: linear-gradient(to right, rgba(16, 39, 174, 0.52), rgba(0, 95, 172, 0.01)), url(/assets/images/watch.png);
+    background-image: linear-gradient(to right, rgba(16, 39, 174, 0.52), rgba(0, 95, 172, 0.01)), url('/assets/images/watch.png');
     height:280px;
     width:1100px;
     margin: 60px 100px 40px 60px;
